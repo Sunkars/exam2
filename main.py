@@ -1,2 +1,2 @@
-# exam2
-main.py
+print("Hello")
+
