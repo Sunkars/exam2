@@ -1,7 +1,5 @@
-print ( 25, 30)
-a = int ( input() )
-b = int ( input() )
-c = a+b
-print (a, "+", b, "=", c)
-
+b = [1, 2, 3, 4, 5]
+a = [3, 7, 1, 4, 9]
+c = b-a
+print (b, "-", a, "=", c)
 
